@@ -1,0 +1,3 @@
+[submodule "submodules/falltergeist/vfs"]
+	path = submodules/falltergeist/vfs
+	url = https://github.com/falltergeist/vfs.git
