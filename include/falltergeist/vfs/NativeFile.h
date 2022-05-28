@@ -3,7 +3,7 @@
 // Project includes
 
 // Third party includes
-#include "falltegeist/vfs/IFile.h"
+#include "falltergeist/vfs/IFile.h"
 
 // stdlib
 #include <filesystem>
